@@ -1,0 +1,33 @@
+backend-spring-boot/HELP.md
+backend-spring-boot/target/
+backend-spring-boot/!.mvn/wrapper/maven-wrapper.jar
+backend-spring-boot/!**/src/main/**/target/
+backend-spring-boot/!**/src/test/**/target/
+
+### STS ###
+backend-spring-boot/.apt_generated
+backend-spring-boot/.classpath
+backend-spring-boot/.factorypath
+backend-spring-boot/.project
+backend-spring-boot/.settings
+backend-spring-boot/.springBeans
+backend-spring-boot/.sts4-cache
+
+### IntelliJ IDEA ###
+backend-spring-boot/.idea
+backend-spring-boot/*.iws
+backend-spring-boot/*.iml
+backend-spring-boot/*.ipr
+
+### NetBeans ###
+/backend-spring-boot/nbproject/private/
+/backend-spring-boot/nbbuild/
+/backend-spring-boot/dist/
+/backend-spring-boot/nbdist/
+/backend-spring-boot/.nb-gradle/
+backend-spring-boot/build/
+backend-spring-boot/!**/src/main/**/build/
+backend-spring-boot/!**/src/test/**/build/
+
+### VS Code ###
+backend-spring-boot/.vscode/
